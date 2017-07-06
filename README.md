@@ -10,7 +10,7 @@
 |:----:|:----:|:----:|:----:| 
 |1|数组中重复的数字|[※](https://github.com/linw7/Paper-Code/tree/master/code/数组中重复的数字.cpp)|※|
 |2|二维数组中的查找|[※](https://github.com/linw7/Paper-Code/tree/master/code/二维数组中的查找.cpp)|※|
-|3|替换空格|※|[※](https://github.com/linw7/Paper-Code/tree/master/code/替换空格.cpp)|
+|3|替换空格|[※](https://github.com/linw7/Paper-Code/tree/master/code/替换空格.cpp))|※|
 |4|从尾到头打印链表|[※](https://github.com/linw7/Paper-Code/tree/master/code/从尾到头打印链表.cpp)|※|
 |5|重建二叉树|※|※|
 |6|二叉树的下一个节点|※|※|
