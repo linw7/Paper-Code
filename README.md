@@ -37,15 +37,15 @@
 |27|顺时针打印矩阵|※|※|
 |28|包含min函数的栈|[※](https://github.com/linw7/Paper-Code/tree/master/code/28.包含min函数的栈.cpp)|※|
 |29|栈的压入、弹出序列|[※](https://github.com/linw7/Paper-Code/tree/master/code/29.栈的压入弹出序列.cpp)|※|
-|30|从上到下打印二叉树|※|※|
+|30|从上到下打印二叉树|[※](https://github.com/linw7/Paper-Code/tree/master/code/30.从上到下打印二叉树.cpp)|※|
 |31|二叉搜索树的后序遍历序列|※|※|
 |32|二叉树中和为某一值得路径|※|※|
 |33|复杂链表的复制|※|※|
 |34|二叉搜索树与双向链表|※|※|
 |35|序列化二叉树|※|※|
 |36|字符串的排列|※|※|
-|37|数组中出现次数超过一半的数字|※|※|
-|38|最小的k个数|※|※|
+|37|数组中出现次数超过一半的数字|[※](https://github.com/linw7/Paper-Code/tree/master/code/37.出现次数超过一半的数字.cpp)|※|
+|38|最小的k个数|[※](https://github.com/linw7/Paper-Code/tree/master/code/38.最小的k个数.cpp)|※|
 |39|数据流中的中位数|※|※|
 |40|连续子数组的最大和|※|※|
 |41|1 - n整数中1出现的次数|※|※|
