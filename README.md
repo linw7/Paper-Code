@@ -51,9 +51,9 @@
 |41|1 - n整数中1出现的次数|[※](https://github.com/linw7/Paper-Code/tree/master/code/41.整数中1出现的次数.cpp)|※|
 |42|数字序列中的某一位的数字|※|※|
 |43|把数组排成最小的数|※|※|
-|44|把数字翻译成字符串|※|※|
-|45|礼物的最大价值|※|※|
-|46|最长不含重复字符的字符串|※|※|
+|44|把数字翻译成字符串|[※](https://github.com/linw7/Paper-Code/tree/master/code/44.把数字翻译成字符串.cpp)|※|
+|45|礼物的最大价值|[※](https://github.com/linw7/Paper-Code/tree/master/code/45.礼物的最大价值.cpp)|※|
+|46|最长不含重复字符的字符串|[※](https://github.com/linw7/Paper-Code/tree/master/code/46.最长不含重复字符的子字符串.cpp)|※|
 |47|丑数|※|※|
 |48|第一个只出现一次的字符|※|※|
 |49|数组中的逆序对|※|※|
