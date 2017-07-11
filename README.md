@@ -48,7 +48,7 @@
 |38|最小的k个数|[※](https://github.com/linw7/Paper-Code/tree/master/code/38.最小的k个数.cpp)|※|
 |39|数据流中的中位数|[※](https://github.com/linw7/Paper-Code/tree/master/code/39.流数据中的中位数.cpp)|※|
 |40|连续子数组的最大和|[※](https://github.com/linw7/Paper-Code/tree/master/code/40.连续子数组的最大和.cpp)|※|
-|41|1 - n整数中1出现的次数|※|※|
+|41|1 - n整数中1出现的次数|[※](https://github.com/linw7/Paper-Code/tree/master/code/41.整数中1出现的次数.cpp)|※|
 |42|数字序列中的某一位的数字|※|※|
 |43|把数组排成最小的数|※|※|
 |44|把数字翻译成字符串|※|※|
